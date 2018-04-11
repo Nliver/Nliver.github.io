@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>风宇亭</title>
+  <title>风宇亭的博客</title>
   <icon>https://www.gravatar.com/avatar/9dbff03e80bcf050f65ce3718cd64ed9</icon>
   <subtitle>“不去想，管他呢，让风吹在我脸上。”</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Nliver.github.io/"/>
-  <updated>2018-04-11T17:06:38.058Z</updated>
+  <updated>2018-04-11T17:27:16.985Z</updated>
   <id>http://Nliver.github.io/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>“12346546”</title>
-    <link href="http://Nliver.github.io/2018/04/12/%E2%80%9C12346546%E2%80%9D/"/>
-    <id>http://Nliver.github.io/2018/04/12/“12346546”/</id>
-    <published>2018-04-11T17:06:38.000Z</published>
-    <updated>2018-04-11T17:06:38.058Z</updated>
+    <title>735434350</title>
+    <link href="http://Nliver.github.io/2018/04/12/735434350/"/>
+    <id>http://Nliver.github.io/2018/04/12/735434350/</id>
+    <published>2018-04-11T17:27:16.000Z</published>
+    <updated>2018-04-11T17:27:16.985Z</updated>
     
     <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>给我一杯酒，再给我一根烟</title>
+    <link href="http://Nliver.github.io/2018/04/12/%E7%BB%99%E6%88%91%E4%B8%80%E6%9D%AF%E9%85%92%EF%BC%8C%E5%86%8D%E7%BB%99%E6%88%91%E4%B8%80%E6%A0%B9%E7%83%9F/"/>
+    <id>http://Nliver.github.io/2018/04/12/给我一杯酒，再给我一根烟/</id>
+    <published>2018-04-11T17:22:40.000Z</published>
+    <updated>2018-04-11T17:23:16.332Z</updated>
+    
+    <content type="html"><![CDATA[<p>说走就走我们有的是时间~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;说走就走我们有的是时间~&lt;/p&gt;
+
+      
     
     </summary>
     
@@ -67,27 +89,6 @@
       
         &lt;p&gt;这是一篇测试文章，欢迎关注作者博客[1]:  &lt;a href=&quot;https://Nliver.github.io/&quot;&gt;https://Nliver.github.io/&lt;/a&gt;&lt;/p&gt;
 
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://Nliver.github.io/2018/04/11/hello-world/"/>
-    <id>http://Nliver.github.io/2018/04/11/hello-world/</id>
-    <published>2018-04-10T16:29:14.536Z</published>
-    <updated>2018-04-10T16:29:14.536Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
       
     
     </summary>
