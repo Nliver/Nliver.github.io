@@ -23,7 +23,7 @@
     <published>2018-04-12T14:39:19.000Z</published>
     <updated>2018-04-12T16:22:53.042Z</updated>
     
-    <content type="html"><![CDATA[<p>历时三天，终于自己搭建了一个基于hexo和github pages的个人博客（网站）<br>参考了很多资料和大牛的博客，各大技术论坛都看了，也加深了对前端开发和开源项目的理解。</p><h1 id="目前本博客已支持以下功能："><a href="#目前本博客已支持以下功能：" class="headerlink" title="目前本博客已支持以下功能："></a>目前本博客已支持以下功能：</h1><ul><li><strong>Markdown和扩展Markdown简洁的语法</strong></li><li><strong>代码块高亮</strong></li><li><strong>图片链接和图片上传</strong></li><li><strong><em>LaTex</em>数学公式</strong></li><li><strong>UML序列图和流程图</strong></li><li><strong>文章分类</strong></li><li><strong>作品打赏</strong></li><li><strong>友情链接（放了两个技术大牛的博客，后期会补全）</strong></li><li><strong>作品分享</strong><a id="more"></a></li><li><strong>个人社区链接（如你所见头像下的图标，但考虑隐私等问题链接并未开放）</strong></li><li><strong>文章查找</strong></li><li><strong>*文章目录划分</strong></li><li><strong>文章评论（根据imsun的开源项目gitment所建立，因此评论必须有github账户）</strong></li><li><strong>导入导出Markdown文件</strong></li><li><strong>个性签名与简介</strong></li><li><strong>安卓，ios，ipad，PC端框架自适应</strong></li><li><strong>网站访客统计</strong></li></ul><hr><h1 id="剩余的问题："><a href="#剩余的问题：" class="headerlink" title="剩余的问题："></a>剩余的问题：</h1><ul><li><strong>背景UI优化</strong></li><li><strong>相册建立</strong></li><li><strong>视频建立</strong><br>还有很多交互式设计的欠缺就不一一列举了</li></ul><hr><h1 id="未来张望："><a href="#未来张望：" class="headerlink" title="未来张望："></a>未来张望：</h1><ul><li>值得一提的是，这些功能的实现全在yilia主题下，但另外一个Next主题也是大势所趋， 所以在不同的主题下部署博客也有所不同，这点笔者会在以后搭建后分享经验。</li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>历时三天，终于自己搭建了一个基于hexo和github pages的个人博客（网站）<br>参考了很多资料和大牛的博客，各大技术论坛都看了，也加深了对前端开发和开源项目的理解。</p><h1 id="目前本博客已支持以下功能："><a href="#目前本博客已支持以下功能：" class="headerlink" title="目前本博客已支持以下功能："></a>目前本博客已支持以下功能：</h1><ul><li><strong>Markdown和扩展Markdown简洁的语法</strong></li><li><strong>代码块高亮</strong></li><li><strong>图片链接和图片上传</strong></li><li><strong><em>LaTex</em>数学公式</strong></li><li><strong>UML序列图和流程图</strong></li><li><strong>文章分类</strong></li><li><strong>作品打赏</strong></li><li><strong>友情链接（放了两个技术大牛的博客，后期会补全）</strong></li><li><strong>作品分享</strong><a id="more"></a></li><li><strong>个人社区链接（如你所见头像下的图标，但考虑隐私等问题链接并未开放）</strong></li><li><strong>文章查找</strong></li><li><strong>*文章目录划分</strong></li><li><strong>文章评论（根据imsun的开源项目gitment所建立，因此评论必须有github账户）</strong></li><li><strong>导入导出Markdown文件</strong></li><li><strong>个性签名与简介</strong></li><li><strong>安卓，ios，ipad，PC端框架自适应</strong></li><li><strong>网站访客统计</strong></li></ul><hr><h1 id="剩余的问题："><a href="#剩余的问题：" class="headerlink" title="剩余的问题："></a>剩余的问题：</h1><ul><li><strong>背景UI优化</strong></li><li><strong>相册建立</strong></li><li><strong>视频建立</strong><br>还有很多交互式设计的欠缺就不一一列举了</li></ul><hr><h1 id="未来张望："><a href="#未来张望：" class="headerlink" title="未来张望："></a>未来张望：</h1><ul><li>值得一提的是，这些功能的实现全在yilia主题下，但另外一个Next主题也是大势所趋， 所以在不同的主题下部署博客也有所不同，这点笔者会在以后搭建后分享经验。</li></ul>]]></content>
     
     <summary type="html">
     
@@ -53,7 +53,14 @@
     <published>2018-04-12T04:52:52.000Z</published>
     <updated>2018-04-12T05:01:47.831Z</updated>
     
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
     <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
     
     </summary>
     
@@ -69,7 +76,14 @@
     <published>2018-04-11T17:27:16.000Z</published>
     <updated>2018-04-12T09:52:34.094Z</updated>
     
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
     <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
     
     </summary>
     
@@ -85,14 +99,13 @@
     <published>2018-04-11T17:22:40.000Z</published>
     <updated>2018-04-12T04:59:07.519Z</updated>
     
-    <content type="html"><![CDATA[<p>说走就走我们有的是时间~</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>说走就走我们有的是时间~</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;说走就走我们有的是时间~&lt;/p&gt;
-
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
@@ -109,14 +122,13 @@
     <published>2018-04-11T15:33:44.000Z</published>
     <updated>2018-04-12T04:56:46.991Z</updated>
     
-    <content type="html"><![CDATA[<p>这只是个测试，后期再做开发。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这只是个测试，后期再做开发。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这只是个测试，后期再做开发。&lt;/p&gt;
-
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
@@ -133,14 +145,13 @@
     <published>2018-04-10T17:06:57.000Z</published>
     <updated>2018-04-12T05:02:20.327Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章，欢迎关注作者博客[1]:  <a href="https://Nliver.github.io/">https://Nliver.github.io/</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是一篇测试文章，欢迎关注作者博客[1]:  <a href="https://Nliver.github.io/">https://Nliver.github.io/</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这是一篇测试文章，欢迎关注作者博客[1]:  &lt;a href=&quot;https://Nliver.github.io/&quot;&gt;https://Nliver.github.io/&lt;/a&gt;&lt;/p&gt;
-
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
