@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Nliver.github.io/"/>
-  <updated>2018-04-12T04:52:52.658Z</updated>
+  <updated>2018-04-12T05:01:47.831Z</updated>
   <id>http://Nliver.github.io/</id>
   
   <author>
@@ -21,12 +21,14 @@
     <link href="http://Nliver.github.io/2018/04/12/%E6%B5%8B%E8%AF%955/"/>
     <id>http://Nliver.github.io/2018/04/12/测试5/</id>
     <published>2018-04-12T04:52:52.000Z</published>
-    <updated>2018-04-12T04:52:52.658Z</updated>
+    <updated>2018-04-12T05:01:47.831Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="安卓开发" scheme="http://Nliver.github.io/tags/%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
@@ -35,12 +37,14 @@
     <link href="http://Nliver.github.io/2018/04/12/735434350/"/>
     <id>http://Nliver.github.io/2018/04/12/735434350/</id>
     <published>2018-04-11T17:27:16.000Z</published>
-    <updated>2018-04-11T17:27:16.985Z</updated>
+    <updated>2018-04-12T04:58:43.654Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="测试" scheme="http://Nliver.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
@@ -49,7 +53,7 @@
     <link href="http://Nliver.github.io/2018/04/12/%E7%BB%99%E6%88%91%E4%B8%80%E6%9D%AF%E9%85%92%EF%BC%8C%E5%86%8D%E7%BB%99%E6%88%91%E4%B8%80%E6%A0%B9%E7%83%9F/"/>
     <id>http://Nliver.github.io/2018/04/12/给我一杯酒，再给我一根烟/</id>
     <published>2018-04-11T17:22:40.000Z</published>
-    <updated>2018-04-11T17:23:16.332Z</updated>
+    <updated>2018-04-12T04:59:07.519Z</updated>
     
     <content type="html"><![CDATA[<p>说走就走我们有的是时间~</p>]]></content>
     
@@ -64,6 +68,8 @@
     </summary>
     
     
+      <category term="感悟杂谈" scheme="http://Nliver.github.io/tags/%E6%84%9F%E6%82%9F%E6%9D%82%E8%B0%88/"/>
+    
   </entry>
   
   <entry>
@@ -71,7 +77,7 @@
     <link href="http://Nliver.github.io/2018/04/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%89%80%E7%94%A8%E7%9A%84%E6%8A%80%E6%9C%AF/"/>
     <id>http://Nliver.github.io/2018/04/11/搭建博客所用的技术/</id>
     <published>2018-04-11T15:33:44.000Z</published>
-    <updated>2018-04-11T16:20:29.950Z</updated>
+    <updated>2018-04-12T04:56:46.991Z</updated>
     
     <content type="html"><![CDATA[<p>这只是个测试，后期再做开发。</p>]]></content>
     
@@ -86,6 +92,8 @@
     </summary>
     
     
+      <category term="前端" scheme="http://Nliver.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
   </entry>
   
   <entry>
@@ -93,7 +101,7 @@
     <link href="http://Nliver.github.io/2018/04/11/%E6%9D%8E%E5%B0%8F%E6%98%8E%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <id>http://Nliver.github.io/2018/04/11/李小明的测试文章/</id>
     <published>2018-04-10T17:06:57.000Z</published>
-    <updated>2018-04-11T16:15:31.855Z</updated>
+    <updated>2018-04-12T05:02:20.327Z</updated>
     
     <content type="html"><![CDATA[<p>这是一篇测试文章，欢迎关注作者博客[1]:  <a href="https://Nliver.github.io/">https://Nliver.github.io/</a></p>]]></content>
     
@@ -107,6 +115,8 @@
     
     </summary>
     
+    
+      <category term="交互设计" scheme="http://Nliver.github.io/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
