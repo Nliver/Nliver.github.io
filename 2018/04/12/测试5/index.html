@@ -32,7 +32,7 @@
 
 
 
-    <link rel="shortcut icon" href="/favicon.png">
+    <link rel="shortcut icon" href="/favicon.ico">
 
 
 
@@ -95,7 +95,7 @@
 <div class="intrude-less">
     <header id="header" class="inner">
         <a href="/" class="profilepic">
-            <img src="/img/avatar.png" class="animated zoomIn">
+            <img src="/img/touxiang.jpg" class="animated zoomIn">
         </a>
         <hgroup>
           <h1 class="header-author"><a href="/">风宇亭</a></h1>
@@ -160,6 +160,8 @@
                         
                             <li><a href="/archives/">所有文章</a></li>
                         
+                            <li><a href="/tags/随笔">随笔</a></li>
+                        
                             <li><a href="/tags/">标签云</a></li>
                         
                             <li><a href="/about/">关于我</a></li>
@@ -222,7 +224,7 @@
     <div class="intrude-less">
         <header id="header" class="inner">
             <a href="/" class="profilepic">
-                <img src="/img/avatar.png" class="animated zoomIn">
+                <img src="/img/touxiang.jpg" class="animated zoomIn">
             </a>
             <hgroup>
               <h1 class="header-author"><a href="/" title="回到主页">风宇亭</a></h1>
@@ -236,6 +238,8 @@
                     <li><a href="/">主页</a></li>
                 
                     <li><a href="/archives/">所有文章</a></li>
+                
+                    <li><a href="/tags/随笔">随笔</a></li>
                 
                     <li><a href="/tags/">标签云</a></li>
                 
@@ -416,7 +420,7 @@
         
     </div>
 
-    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2018/04/12/测试文章8/">测试文章8</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/12/测试5/">测试5</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/12/735434350/">735434350</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/12/给我一杯酒，再给我一根烟/">给我一杯酒，再给我一根烟</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/11/搭建博客所用的技术/">搭建博客所用的技术</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/11/李小明的测试文章/">李小明的测试文章</a></li></ul>
+    <ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2018/04/14/84963087lmk5555/">84963087lmk5555</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/12/测试文章8/">测试文章8</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/12/测试5/">测试5</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/12/735434350/">735434350</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/12/给我一杯酒，再给我一根烟/">给我一杯酒，再给我一根烟</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/11/搭建博客所用的技术/">搭建博客所用的技术</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/04/11/李小明的测试文章/">李小明的测试文章</a></li></ul>
 
 
 
@@ -491,11 +495,11 @@
     
         var oOpenInNew = {
             
-            
-            
-            
-            
-            
+             title: "a.article-title, .article-more-link a", 
+             post: ".article-entry a[href], .copyright a[href]", 
+             tags: ".article-tag a", 
+             categories: ".article-category a, a.tag-list-link", 
+             articleNav: "#article-nav a, #post-nav-button a", 
              archives: ".archive-article-title", 
              miniArchives: "a.post-list-link", 
             
@@ -507,6 +511,23 @@
         }
     
 </script>
+
+    <script>
+        var originTitle = document.title;
+        var titleTime;
+        document.addEventListener("visibilitychange", function() {
+            if (document.hidden) {
+                document.title = "(つェ⊂) 我藏好了哦~ " + originTitle;
+                clearTimeout(titleTime);
+            }
+            else {
+                document.title = "(*´∇｀*) 被你发现啦~ " + originTitle;
+                titleTime = setTimeout(function() {
+                    document.title = originTitle;
+                }, 2000);
+            }
+        })
+    </script>
 
 <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
