@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>1323456</title>
+      <link href="/2018/05/04/1323456/"/>
+      <url>/2018/05/04/1323456/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>测试文章8</title>
+      <link href="/2018/04/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A08/"/>
+      <url>/2018/04/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A08/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>历时三天，终于自己搭建了一个基于hexo和github pages的个人博客（网站）<br>参考了很多资料和大牛的博客，各大技术论坛都看了，也加深了对前端开发和开源项目的理解。</p><h1 id="目前本博客已支持以下功能："><a href="#目前本博客已支持以下功能：" class="headerlink" title="目前本博客已支持以下功能："></a>目前本博客已支持以下功能：</h1><ul><li><strong>Markdown和扩展Markdown简洁的语法</strong></li><li><strong>代码块高亮</strong></li><li><strong>图片链接和图片上传</strong></li><li><strong><em>LaTex</em>数学公式</strong></li><li><strong>UML序列图和流程图</strong></li><li><strong>文章分类</strong></li><li><strong>作品打赏</strong></li><li><strong>友情链接（放了两个技术大牛的博客，后期会补全）</strong></li><li><strong>作品分享</strong><a id="more"></a></li><li><strong>个人社区链接（如你所见头像下的图标，但考虑隐私等问题链接并未开放）</strong></li><li><strong>文章查找</strong></li><li><strong>*文章目录划分</strong></li><li><strong>文章评论（根据imsun的开源项目gitment所建立，因此评论必须有github账户）</strong></li><li><strong>导入导出Markdown文件</strong></li><li><strong>个性签名与简介</strong></li><li><strong>安卓，ios，ipad，PC端框架自适应</strong></li><li><strong>网站访客统计</strong></li><li><strong>背景音乐</strong></li></ul><hr><h1 id="剩余的问题："><a href="#剩余的问题：" class="headerlink" title="剩余的问题："></a>剩余的问题：</h1><ul><li><strong>背景UI优化</strong></li><li><strong>相册建立</strong></li><li><strong>视频建立</strong><br>还有很多交互式设计的欠缺就不一一列举了</li></ul><hr><h1 id="未来张望："><a href="#未来张望：" class="headerlink" title="未来张望："></a>未来张望：</h1><ul><li>值得一提的是，这些功能的实现全在yilia主题下，但另外一个Next主题也是大势所趋， 所以在不同的主题下部署博客也有所不同，这点笔者会在以后搭建后分享经验。</li></ul>]]></content>
+      
+      
+        <tags>
+            
+            <tag> Hexo博客技术开发 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>给我一杯酒，再给我一根烟</title>
+      <link href="/2018/04/12/%E7%BB%99%E6%88%91%E4%B8%80%E6%9D%AF%E9%85%92%EF%BC%8C%E5%86%8D%E7%BB%99%E6%88%91%E4%B8%80%E6%A0%B9%E7%83%9F/"/>
+      <url>/2018/04/12/%E7%BB%99%E6%88%91%E4%B8%80%E6%9D%AF%E9%85%92%EF%BC%8C%E5%86%8D%E7%BB%99%E6%88%91%E4%B8%80%E6%A0%B9%E7%83%9F/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>说走就走我们有的是时间~</p>]]></content>
+      
+      
+        <tags>
+            
+            <tag> 感悟杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>搭建博客所用的技术</title>
+      <link href="/2018/04/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%89%80%E7%94%A8%E7%9A%84%E6%8A%80%E6%9C%AF/"/>
+      <url>/2018/04/11/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%89%80%E7%94%A8%E7%9A%84%E6%8A%80%E6%9C%AF/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这只是个测试，后期再做开发。</p>]]></content>
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>李小明的测试文章</title>
+      <link href="/2018/04/11/%E6%9D%8E%E5%B0%8F%E6%98%8E%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+      <url>/2018/04/11/%E6%9D%8E%E5%B0%8F%E6%98%8E%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是一篇测试文章，欢迎关注作者博客[1]:  <a href="https://Nliver.github.io/">https://Nliver.github.io/</a></p>]]></content>
+      
+      
+        <tags>
+            
+            <tag> 交互设计 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+</search>
