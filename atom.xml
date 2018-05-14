@@ -113,27 +113,4 @@
     
   </entry>
   
-  <entry>
-    <title>李小明的测试文章</title>
-    <link href="http://Nliver.github.io/2018/04/11/%E6%9D%8E%E5%B0%8F%E6%98%8E%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://Nliver.github.io/2018/04/11/李小明的测试文章/</id>
-    <published>2018-04-10T17:06:57.000Z</published>
-    <updated>2018-04-12T05:02:20.327Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是一篇测试文章，欢迎关注作者博客[1]:  <a href="https://Nliver.github.io/">https://Nliver.github.io/</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="交互设计" scheme="http://Nliver.github.io/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
-    
-  </entry>
-  
 </feed>
